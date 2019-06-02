@@ -1,0 +1,12 @@
+site, httpcode, status, server-side-redirect, client-side-redirect, 200-landing-page
+www.google.com, 200, OK, , , 
+www.yamgrams.com, 200, OK, , , notavailable.
+www.livebynightscreening.com, 200, OK, , URL='https://www.warnerbros.com/live-night'", 
+https://moz.com/learn/seo/redirection, , Forbidden, ,
+www.wbworldpub.com, 302, Found, /?AspxAutoDetectCookieSupport=1
+site, httpcode, status, server-side-redirect, client-side-redirect, 200-landing-page
+www.google.com, 200, OK, , , 
+www.yamgrams.com, 200, OK, , , notavailable.
+www.livebynightscreening.com, 200, OK, , URL='https://www.warnerbros.com/live-night'", 
+www.twitter.com, 301, Found, 
+www.wbworldpub.com, 302, Found, /?AspxAutoDetectCookieSupport=1
